@@ -1,0 +1,2 @@
+include ':app', ':networking', ':homelist', ':itemdetail', ':styles', ':imageloader'
+rootProject.name='LaptopsList'
