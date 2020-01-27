@@ -1,2 +1,7 @@
 # globallogic
-Test Laptops
+
+Proyecto de prueba LaptopsList
+
+En breve se agregan notas en este archivo...
+
+
