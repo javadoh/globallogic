@@ -1,8 +1,8 @@
 # globallogic
 
-Proyecto de prueba LaptopsList
+<b>Proyecto de prueba LaptopsList </b>
 
-Consideraciones de diseño: 
+<b>Consideraciones de diseño: </b>
 
 1) En primer lugar, me di la tarea de ponerme al día aprovechando este espacio con los avances del último año en tecnología android, para ello busqué y esuché varias conferencias GDG de Europa donde se explica parte de lo nuevo en android para este 2020.
 
@@ -26,8 +26,10 @@ Consideraciones de diseño:
 
 11) Se realizaron pruebas unitarias sobre el módulo HomeList.
 
+12) Se estimo conveniente reutilizar código para mostrar un guideline (destacado) en la lista, como parte de la industria actual.
 
-Consideraciones en el uso de librerías: 
+
+<b> Consideraciones en el uso de librerías: </b>
 
 1) Se escoge glide por considerar tiene un excelente trato de chaché y thumbnails, además de un excelente performance ( esto a pesar de que es una librería un poco más pesada que picasso por ejemplo).
 
