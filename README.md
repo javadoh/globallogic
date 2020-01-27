@@ -2,6 +2,9 @@
 
 <b>Proyecto de prueba LaptopsList </b>
 
+![Screenshot](homelist.png) ![Screenshot](itemetail.png)
+
+
 <b>Consideraciones de diseño: </b>
 
 1) En primer lugar, me di la tarea de ponerme al día aprovechando este espacio con los avances del último año en tecnología android, para ello busqué y esuché varias conferencias GDG de Europa donde se explica parte de lo nuevo en android para este 2020.
